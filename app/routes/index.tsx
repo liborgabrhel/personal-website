@@ -4,5 +4,5 @@ export default function Index() {
       <h1>Personal Website</h1>
       <p>This is my personal website.</p>
     </main>
-  );
+  )
 }
